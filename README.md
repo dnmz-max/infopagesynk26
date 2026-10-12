@@ -1,0 +1,2 @@
+# infopagesynk26
+test
